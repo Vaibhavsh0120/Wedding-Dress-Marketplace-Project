@@ -6,7 +6,9 @@
 "Say Yess!" is a comprehensive e-commerce platform dedicated to offering a diverse range of wedding dresses and accessories, catering to both Indian and Western styles. With a focus on celebrating cultural diversity and individual preferences, our platform brings together artisans, designers, and boutique sellers from across the globe.
 </h3>
 
-[Watch it live](https://wedding-dress-marketplace-project.vercel.app/)
+<p align="center">
+  <a href="https://shopsayyess.vercel.app/">Watch it live</a>
+</p>
 
 <br>
 
